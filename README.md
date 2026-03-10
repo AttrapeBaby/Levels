@@ -11,7 +11,7 @@ Levels transforme la productivité en jeu : chaque jour, l'utilisateur définit 
 ## Fonctionnalités principales
 
 ### Objectifs quotidiens
-- Création de 5 à 15 objectifs par jour avec catégories (Sport, Santé, Études, Compétences, Créatif, Finances, Administratif…)
+- Création de 5 à 25 objectifs par jour avec catégories (Sport, Santé, Études, Compétences, Créatif, Finances, Administratif…)
 - Système de **priorité** : un objectif marqué prioritaire rapporte 1.5× plus d'XP
 - **Objectifs récurrents** : se recréent automatiquement chaque jour
 - **Difficulté** ajustable (facile → extrême) avec XP proportionnel
